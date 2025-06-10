@@ -7,7 +7,7 @@ This repository contains a portfolio of a Data Analysis project presented in ter
 - Data Analysis and Visualization [[Kaggle.com](https://www.kaggle.com/)]
 
   - [Student Habits vs Academic Performance \[ENG\]](https://www.kaggle.com/datasets/jayaantanaath/student-habits-vs-academic-performance)
-    [![Open In Colab](https://github.com/dalilahannouche/redi-school-project/blob/main/student_habits_vs_academic_performance.ipynb)
+    [![Open In Colab](https://github.com/dalilahannouche/redi-school-project/blob/main/student_habits_vs_academic_performance.ipynb)]
 
   This is a simulated dataset exploring how lifestyle habits affect academic performance in students. With 1,000 synthetic student records and 15+ features including study hours, sleep patterns, social media usage, diet quality, mental health, and final exam scores, it’s perfect for ML projects, regression analysis, clustering, and data viz. Created using realistic patterns for educational practice.
 
